@@ -38,18 +38,18 @@
 
 ## 단계별 작업 구성
 
-## 1. 기획 📋
-### 1.1 문제 정의 🔍
+## 📋 기획 
+### 🔍 문제 정의
 - 리뷰의 성격을 광고성, 재구매성, 가성비 키워드, 긍정/부정 키워드 4가지 형태로 나눠 리뷰의 퀄리티 판단
 - 수 많은 리뷰 데이터중 높은 퀄리티의 리뷰의 필터링의 필요성
 - 목표 설정: 리뷰어/블로거의 상품 리뷰 조사 시간 단축, 컨텐츠 제작 도움
 
-### 1.2 데이터 요구사항 정의 📊
+### 📊 데이터 요구사항 정의 
 - 필요한 데이터 항목: 이커머스 사이트의 IT/전자제품 리뷰 이력
 - 데이터 유형 정의: 정형 데이터
 - 데이터 수집 방법 및 출처 선정
 
-### 2. 데이터 수집 및 준비 💾
+### 💾 데이터 수집 및 준비
 - 필요한 데이터 수집: 이커머스 사이트 IT/전자제품 리뷰 이력
 - 데이터 저장소 설계: 데이터베이스 또는 클라우드 저장소 선정
 - 데이터 수집 크롤링 및 전처리를 위한 SQL 시스템 구축
@@ -78,9 +78,14 @@
     - 속성 이름
     - 데이터 유형: 정량 -->
 
-## 3. 기술 스텍
+## 📚 기술 스택
 - Python, MySQL, OPEN API, FLASK 활용
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=openai&logoColor=white">
 
 ## 4. 예상 문제 및 해결 방안
 - **문제**: 리뷰가 일정 갯수 이하인 경우 필터링 된 리뷰의 신뢰도 하락
-- **해결 방안**:
+- **해결 방안**: 리뷰가 특정 갯수 이상인 상품에 대해서만 결과 도출
