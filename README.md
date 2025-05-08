@@ -79,12 +79,14 @@
     - 데이터 유형: 정량 -->
 
 ## 📚 기술 스택
-- Python, MySQL, OPEN API, FLASK 활용
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=openai&logoColor=white">
+
+<div align=center>
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/openai-000000?style=for-the-badge&logo=openai&logoColor=white">
+</div>
 
 ## 4. 예상 문제 및 해결 방안
 - **문제**: 리뷰가 일정 갯수 이하인 경우 필터링 된 리뷰의 신뢰도 하락
