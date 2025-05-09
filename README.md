@@ -16,7 +16,7 @@
 - 서정원
 
 ### 서비스 플로우
-![Image](https://github.com/user-attachments/assets/00e0c44b-34fb-4122-a911-a0c89b18833e)
+![Image](https://github.com/user-attachments/assets/7b41eeed-68a3-4ffc-9aad-b6fee595bc5c)
 
 ## 🗓️ 프로젝트 일정
 ![Image](https://github.com/user-attachments/assets/7ad77921-0720-43cd-a4c5-06e3a916e9ed)
@@ -285,7 +285,7 @@
 </details>
 
 </details>
----
+
 
 ## 📚 기술 스택
 
