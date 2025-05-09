@@ -57,7 +57,7 @@
 # 프로젝트 설계서
 
 ## 1. 시스템 아키텍쳐
-- image
+![Image](https://github.com/user-attachments/assets/f91c64df-895a-487a-aa61-f442dca7d3a6)
 
 ## 2. 데이터 설계
 ![Image](https://github.com/user-attachments/assets/fcf80654-e71a-4488-9d46-59d628c0c173)
