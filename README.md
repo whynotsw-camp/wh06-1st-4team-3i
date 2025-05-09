@@ -86,9 +86,9 @@
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=black">
-    <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=black">
-    <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazon s3&logoColor=black">
-    <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazon rds&logoColor=black">
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=black">
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazon s3&logoColor=black">
+    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=black">
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=black">
     <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=black">
 </div>
