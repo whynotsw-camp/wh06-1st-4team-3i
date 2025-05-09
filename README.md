@@ -84,6 +84,11 @@
 
 # 📘 데이터 정의서
 <details>
+<summary> 전체 테이블 보기</summary>
+
+<br/>
+
+<details>
 <summary>📦 테이블 1: category (카테고리)</summary>
 
 ### 테이블 정보
@@ -154,6 +159,8 @@
 | content_raw  | TEXT        | -    |    |    |    |                  | 원문 텍스트              |
 | rating       | DECIMAL     | 2,1  |    |    |    |                  | 리뷰 평점                |
 | review_date  | DATE        | -    |    |    |    |                  | 리뷰 작성일              |
+
+</details>
 
 </details>
 
