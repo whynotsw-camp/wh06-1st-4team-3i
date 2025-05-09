@@ -85,26 +85,24 @@
 # 📘 데이터 정의서
 
 <details>
-<summary>📁 테이블 1: users</summary>
+<summary>📁 테이블 1: category</summary>
 
 ### 테이블 정보
 
 | 항목        | 설명                          |
 |-------------|-------------------------------|
-| 테이블 명   | users                         |
-| 설명        | 사용자 정보를 저장하는 테이블 |
-| 작성자      | 홍길동                         |
-| 생성일자    | 2025-05-09                    |
+| 테이블 명   | category                         |
+| 설명        | 상품의 카테고리를 분류 테이블  |
+| 작성자      | 김명재                         |
+| 생성일자    | 2025-05-08                    |
 | 비고        | -                             |
 
 ### 컬럼 정의
 
 | 컬럼명     | 데이터 타입 | 길이 | PK | NN | FK | 기본값           | 설명           |
 |------------|-------------|------|----|----|----|------------------|----------------|
-| id         | INT         | -    | O  | O  |    | AUTO_INCREMENT   | 사용자 ID       |
-| username   | VARCHAR     | 50   |    | O  |    |                  | 사용자 계정명    |
-| email      | VARCHAR     | 100  |    | O  |    |                  | 이메일 주소      |
-| created_at | DATETIME    | -    |    | O  |    | CURRENT_TIMESTAMP| 생성 일시        |
+| id         | INT         | -    | O  | O  | O   | AUTO_INCREMENT   | 카테고리 ID       |
+| name   | VARCHAR     | 100   |    | O  |    |                  | 카테고리 명    |
 
 </details>
 
