@@ -83,9 +83,8 @@
 ![Image](https://github.com/user-attachments/assets/c8b5cf78-d7df-4fc3-bb66-015d0b6a8f76)
 
 # 📘 데이터 정의서
-
 <details>
-<summary>📁 테이블 1: category (카테고리)</summary>
+<summary>📦 테이블 1: category (카테고리)</summary>
 
 ### 테이블 정보
 
@@ -277,6 +276,10 @@
 | model_used   | VARCHAR     | 20   |    |    |    |                     | 사용된 OpenAI 모델              |
 | is_saved     | BOOLEAN     | -    |    |    |    | FALSE               | 사용자가 저장했는지 여부        |
 | created_at   | TIMESTAMP   | -    |    |    |    |
+
+</details>
+
+---
 
 ## 📚 기술 스택
 
