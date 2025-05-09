@@ -72,7 +72,7 @@
 - image
 
 ## 2. 데이터 설계
-![Image](https://github.com/user-attachments/assets/31b0a06f-c27e-4417-ad15-9cd35af81e96)
+![Image](https://github.com/user-attachments/assets/52543e0e-e6e6-45f8-b014-92a1dcf8bbe0)
 <!-- - **데이터 흐름**: 데이터 -> 전처리 -> 분석 -> 결과
 - **주요 데이터 속성**
     - 속성 이름
