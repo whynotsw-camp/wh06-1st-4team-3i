@@ -50,7 +50,7 @@
   ------------------------------
 
 # 화면 구성
-![Image](https://github.com/user-attachments/assets/63967d17-334e-4e92-b620-938a6114feaa)
+![Image](https://github.com/user-attachments/assets/15efdb4b-81e0-4726-ad98-b97c44baa7f1)
 
   ------------------------------
 
@@ -60,7 +60,7 @@
 ![Image](https://github.com/user-attachments/assets/f91c64df-895a-487a-aa61-f442dca7d3a6)
 
 ## 🗂️ 데이터 설계
-![Image](https://github.com/user-attachments/assets/fcf80654-e71a-4488-9d46-59d628c0c173)
+![Image](https://github.com/user-attachments/assets/c8b5cf78-d7df-4fc3-bb66-015d0b6a8f76)
 
 ## 📚 기술 스택
 
