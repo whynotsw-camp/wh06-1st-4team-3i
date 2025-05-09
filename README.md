@@ -72,11 +72,7 @@
 - image
 
 ## 2. 데이터 설계
-![Image](https://github.com/user-attachments/assets/52543e0e-e6e6-45f8-b014-92a1dcf8bbe0)
-<!-- - **데이터 흐름**: 데이터 -> 전처리 -> 분석 -> 결과
-- **주요 데이터 속성**
-    - 속성 이름
-    - 데이터 유형: 정량 -->
+![Image](https://github.com/user-attachments/assets/fcf80654-e71a-4488-9d46-59d628c0c173)
 
 ## 📚 기술 스택
 
